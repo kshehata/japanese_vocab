@@ -1,26 +1,26 @@
-kana,kanji,english
-ぞう,象,elephant
-だれ,誰,who
-きつね,狐,fox
-かれ,彼,"him, he, boyfriend"
-くま,熊,bear
-ぼく,僕,"I, me (male only)"
-ひつじ,羊,sheep
-そうです,,that's right
-さる,猿,monkey
-たぶん,多分,maybe
-うし,牛,cow
-がっこう,学校,school
-とり,鳥,bird
-かのじょ,彼女,"her, she, girlfriend"
-きりん,麒麟,giraffe
-にほんごのせんせい,日本語の先生,Japanese teacher
-ライオン,,lion
-にんじん,人参,carrot
-うさぎ,兔,rabbit
-ちがいます,違います,that's wrong
-ねずみ,鼠,mouse
-〜が,,subject marker
-うま,馬,horse
-りんご,林檎,apple
-パンダ,,panda
+japanese,kana,kanji,english
+象(ぞう),ぞう,象,elephant
+誰(だれ),だれ,誰,who
+狐(きつね),きつね,狐,fox
+彼(かれ),かれ,彼,"him, he, boyfriend"
+熊(くま),くま,熊,bear
+僕(ぼく),ぼく,僕,"I, me (male only)"
+羊(ひつじ),ひつじ,羊,sheep
+そうです,そうです,,that's right
+猿(さる),さる,猿,monkey
+多分(たぶん),たぶん,多分,maybe
+牛(うし),うし,牛,cow
+学校(がっこう),がっこう,学校,school
+鳥(とり),とり,鳥,bird
+彼女(かのじょ),かのじょ,彼女,"her, she, girlfriend"
+麒麟(きりん),きりん,麒麟,giraffe
+日本語(にほんご)の先生(せんせい),にほんごのせんせい,日本語の先生,Japanese teacher
+ライオン,ライオン,,lion
+人参(にんじん),にんじん,人参,carrot
+兔(うさぎ),うさぎ,兔,rabbit
+違(ちが)います,ちがいます,違います,that's wrong
+鼠(ねずみ),ねずみ,鼠,mouse
+〜が,〜が,,subject marker
+馬(うま),うま,馬,horse
+林檎(りんご),りんご,林檎,apple
+パンダ,パンダ,,panda

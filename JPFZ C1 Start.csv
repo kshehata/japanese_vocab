@@ -1,106 +1,106 @@
-kana,kanji,english
-すし,寿司,sushi
-おちゃ,お茶,tea
-ごはん,御飯,rice
-みず,水,water
-です,,"to be, is, are"
-ください,下さい,please (request)
-こんにちは,,hello
-おはよう,,"good morning, good day"
-ございます,,(general polite/formal suffix)
-ありがとう,,thanks
-こんばんは,,good evening
-もしもし,,hello (phone only)
-じゃ、またね,,see you (later/soon)
-すみません,,"excuse me, sorry"
-おやすみなさい,,good night (lit: please rest)
-くち,口,mouth
-いしゃ,医者,doctor
-さようなら,,goodbye (when you don't expect to see them soon)
-はい,,yes
-め,目,eye
-いいえ,,no
-どういたしまして,,you're welcome (polite)
-〜さん,,mr/mrs (generic formal marker for names and titles)
-みみ,耳,ear
-べんごし,弁護士,lawyer
-かっこいい,,cool
-ひと,,"person, people, man"
-やさしい,優しい,"kind, gentle"
-ようこそ,,welcome (to a place)
-おとう,お父,father
-はな,鼻,nose
-おかあ,お母,mother
-かお,顔,face
-おじ,伯父,uncle (father's older brother)
-て,手,hand
-めい,姪,niece
-〜ちゃん,,(friendly/informal marker for names and titles)
-いち,一,"1, one"
-がくせい,学生,student
-に,二,"2, two"
-いただきます,頂きます,bon apetit (lit: I humbly receive)
-あし,足,foot; leg
-ごちそうさまでした,ご馳走様でした,thank you for the meal
-さん,三,"3, three"
-せんせい,先生,teacher
-し、よん,四,"4, four"
-いってきます,行ってきます,"I'm going, I'll go and come back"
-いってらっしゃい,行ってらっしゃい,take care (lit: please go and come back)
-ご,五,"5, five"
-ろく,六,"6, six"
-きをつけて,気を付けて,"be careful, stay safe"
-しち、なな,七,"7, seven"
-ただいま,只今,"just now, I'm home"
-はち,八,"8, eight"
-おかえりなさい,お帰りなさい,"welcome back, welcome home"
-きゅう、く,九,"9, nine"
-はじめまして,初めまして,nice to meet you
-じゅう,十,"10, ten"
-ゆび,指,finger
-〇〇ともうします,〇〇と申します,I am (called) 〇〇
-よんじゅう,四十,"40, forty"
-わたし,私,"I, me"
-なまえ,名前,name
-ななじゅう,七十,"70, seventy"
-おふろ,お風呂,bath
-きゅうじゅう,九十,"90, ninety"
-よろしくおねがいします,宜しくお願いします,"Best regards, lit: ""I humbly request your favour"""
-ひゃく,百,"100, hundred"
-〜か,,question marker
-さんびゃく,三百,300
-せっけん,石鹸,soap
-よんひゃく,四百,400
-さい,歳,years old
-ろっぴゃく,六百,600
-かがみ,鏡,mirror
-ななひゃく,七百,700
-あたま,頭,head
-はっぴゃく,八百,800
-もうふ,毛布,blanket
-きゅうひゃく,九百,900
-なん、なに,何,what
-せん,千,"1,000"
-なんさいですか,何歳ですか,How old are you?
-まん,万,"10,000"
-れい,零,"0, zero (math)"
-は,歯,tooth; teeth
-ふとん,布団,futon
-まる,〇,"circle, zero, like ""oh"", placeholder"
-おく,億,"100,000,000"
-ゼロ,,"0, zero (loanword)"
-いっさい,一歳,1 year old
-まど,窓,window
-はっさい,八歳,8 years old
-くさい,臭い,"smelly, stinking"
-じゅっさい,十歳,10 years old
-まくら,枕,pillow
-はたち,二十歳,20 years old
-なんさいにみえますか,何歳に見えますか,How old do I look?
-〇〇さいにみえます,〇〇歳に見えます,You look 〇〇 years old
-しつれい,失礼,"Rude, impolite, disrespect"
-しつれいですが,失礼ですが,"Excuse me but..., I'm sorry but..."
-はブラシ,歯ブラシ,toothbrush
-こうみえて,こう見えて,despite looking like this...
-ベッド,,bed
-タオル,,towel
+japanese,english
+寿(す)司(し),sushi
+お茶(ちゃ),tea
+御(ご)飯(はん),rice
+水(みず),water
+です,"to be, is, are"
+下(くだ)さい,please (request)
+こんにちは,hello
+おはよう,"good morning, good day"
+ございます,(general polite/formal suffix)
+ありがとう,thanks
+こんばんは,good evening
+もしもし,hello (phone only)
+じゃ、またね,see you (later/soon)
+すみません,"excuse me, sorry"
+お休(やす)みなさい,good night (lit: please rest)
+口(くち),mouth
+医者(いしゃ),doctor
+さようなら,goodbye (when you don't expect to see them soon)
+はい,yes
+目(め),eye
+いいえ,no
+どういたしまして,you're welcome (polite)
+〜さん,mr/mrs (generic formal marker for names and titles)
+耳(みみ),ear
+弁護士(べんごし),lawyer
+かっこいい,cool
+ひと,"person, people, man"
+優(やさ)しい,"kind, gentle"
+ようこそ,welcome (to a place)
+お父(とう),father
+鼻(はな),nose
+お母(かあ),mother
+顔(かお),face
+伯(お)父(じ),uncle (father's older brother)
+手(て),hand
+姪(めい),niece
+〜ちゃん,(friendly/informal marker for names and titles)
+一(いち),"1, one"
+学(がく)生(せい),student
+二(に),"2, two"
+頂(いただ)きます,bon apetit (lit: I humbly receive)
+足(あし),foot; leg
+ご馳(ち)走(そう)様(さま)でした,thank you for the meal
+三(さん),"3, three"
+先生(せんせい),teacher
+四(し、よん),"4, four"
+行(い)って来(き)ます,"I'm going, I'll go and come back"
+行(い)ってらっしゃい,take care (lit: please go and come back)
+五(ご),"5, five"
+六(ろく),"6, six"
+気(き)を付(つ)けて,"be careful, stay safe"
+七(しち、なな),"7, seven"
+只(ただ)今(いま),"just now, I'm home"
+八(はち),"8, eight"
+お帰(かえ)りなさい,"welcome back, welcome home"
+九(きゅう、く),"9, nine"
+初(はじ)めまして,nice to meet you
+十(じゅう),"10, ten"
+指(ゆび),finger
+〇〇と申(もう)します,I am (called) 〇〇
+四(よん)十(じゅう),"40, forty"
+私(わたし),"I, me"
+名(な)前(まえ),name
+七(なな)十(じゅう),"70, seventy"
+お風(ふ)呂(ろ),bath
+九(きゅう)十(じゅう),"90, ninety"
+宜(よろ)しくお願(ねが)いします,"best regards, lit: ""I humbly request your favour"""
+百(ひゃく),"100, hundred"
+〜か,question marker
+三(さん)百(びゃく),300
+石(せっ)鹸(けん),soap
+四(よん)百(ひゃく),400
+歳(さい),years old
+六(ろっ)百(ぴゃく),600
+鏡(かがみ),mirror
+七(なな)百(ひゃく),700
+頭(あたま),head
+八(はっ)百(ぴゃく),800
+毛(もう)布(ふ),blanket
+九(きゅう)百(ひゃく),900
+何(なん、なに),what
+千(せん),"1,000"
+何(なん)歳(さい)ですか,How old are you?
+万(まん),"10,000"
+零(れい),"0, zero (math)"
+歯(は),tooth; teeth
+布(ふ)団(とん),futon
+〇(まる),"circle, zero, like ""oh"", placeholder"
+億(おく),"100,000,000"
+ゼロ,"0, zero (loanword)"
+一(いっ)歳(さい),1 year old
+窓(まど),window
+八(はっ)歳(さい),8 years old
+臭(くさ)い,"smelly, stinking"
+十(じゅっ)歳(さい),10 years old
+枕(まくら),pillow
+二十歳(はたち),20 years old
+何(なん)歳(さい)に見(み)えますか,How old do I look?
+〇〇歳(さい)に見(み)えます,You look 〇〇 years old
+失(しつ)礼(れい),"Rude, impolite, disrespect"
+失(しつ)礼(れい)ですが,"Excuse me but..., I'm sorry but..."
+歯(は)ブラシ,toothbrush
+こう見(み)えて,despite looking like this...
+ベッド,bed
+タオル,towel

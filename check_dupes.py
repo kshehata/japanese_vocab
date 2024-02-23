@@ -3,17 +3,20 @@ import csv
 import re
 import string
 
-kanji_re = re.compile(r"[\s\u3000-\u30ff\u4e00-\u9fff]+")
-kana_re = re.compile(r"[\s\u3000-\u30ff]+")
+furigana_full_re = re.compile(r"(([\s\u4e00-\u9fff]+)\(([\u3000-\u30ff]+)\)|([\u3000-\u30ff]+))*")
+furigana_single_re = re.compile(r"([\s\u4e00-\u9fff]+)\(([\u3000-\u30ff]+)\)")
 english_re = re.compile(r"[\sa-zA-Z0-9\u3000-\u303f\u2000-\u206f"
                         + re.escape(string.punctuation)
                         + r"]+")
 
-def is_kana(s):
-    return kana_re.fullmatch(s) is not None
+def valid_furigana(s):
+    return furigana_full_re.fullmatch(s) is not None
 
-def is_kanji(s):
-    return kanji_re.fullmatch(s) is not None
+def furi2kanji(s):
+    return re.sub(r"\([^\)]*\)", "", s)
+
+def furi2kana(s):
+    return furigana_single_re.sub(r"\2", s)
 
 def is_english(s):
     return english_re.fullmatch(s) is not None
@@ -37,17 +40,12 @@ for filename in sys.argv[1:]:
         columns = next(csv_reader)
         cols_map = { col: i for i, col in enumerate(columns) }
         for r in csv_reader:
-            kana = r[cols_map["kana"]]
-            kanji = r[cols_map["kanji"]]
+            japanese  = r[cols_map["japanese"]]
             english = r[cols_map["english"]]
-            if not is_kana(kana):
-                print(f"Invalid kana: {kana}, file: {filename}, row: {r}")
-            if len(kanji) > 0 and not is_kanji(kanji):
-                print(f"Invalid kanji: {kanji}, file: {filename}, row: {r}")
-            if len(kanji) > 0 and is_kana(kanji):
-                print(f"Kanji is kana: {kanji}, file: {filename}, row: {r}")
+            if not valid_furigana(japanese):
+                print(f"Invalid furigana: {japanese}, file: {filename}, row: {r}")
             if not is_english(english):
                 print(f"Invalid english: {english}, file: {filename}, row: {r}")
-            check_dupes(kana, all_kana, "kana", filename, r)
-            check_dupes(kanji, all_kanji, "kanji", filename, r)
+            check_dupes(furi2kana(japanese), all_kana, "kana", filename, r)
+            check_dupes(furi2kanji(japanese), all_kanji, "kanji", filename, r)
             check_dupes(english, all_english, "english", filename, r)

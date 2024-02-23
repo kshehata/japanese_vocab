@@ -1,39 +1,39 @@
-kana,kanji,english
-これ,,this (one) [closer to speaker]
-〜は,,topic marker
-ほん,本,book
-それ,,that (one) [closer to listener]
-わさび,山葵,wasabi
-あれ,,that one over there [far from both]
-さしみ,刺身,sashimi
-どれ,,which (one of three or more)
-くるま,車,car
-こっち,,this (pair)
-ともだち,友達,friend
-そっち,,that (pair)
-おばあ,お婆,"grandmother, old woman"
-あっち,,that (pair) over there
-おじい,お爺,"grandfather, old man"
-どっち,,which (one of two items)
-〜ご,〜語,language (of 〜)
-えいご,英語,English (language)
-やさい,野菜,vegetable
-えいごがはなせますか,英語が話せますか,can you speak English?
-レタス,,lettuce
-はなせます,話せます,can speak (a language)
-にほんごがはなせますか,日本語が話せますか,can you speak Japanese?
-すこし,少し,"a little, a bit"
-ざっし,雑誌,magazine
-くだもの,果物,fruit (jp)
-ぜんぜん,全然,not at all
-バナナ,,banana
-ペン,,pen
-コンピューター,,computer
-あか,赤,"baby, infant"
-ぶん,文,"sentence, phrase"
-かた,型,"pattern, mold"
-ぶんけい,文型,sentence pattern
-えんぴつ,鉛筆,pencil
-フルーツ,,fruit (loanword)
-にほんごをべんきょうしています,日本語を勉強しています,I’m studying Japanese.
-だいがく,大学,"college, university"
+japanese,kana,kanji,english,,
+これ,これ,,this (one) [closer to speaker],,
+〜は,〜は,,topic marker,,
+本(ほん),ほん,本,book,,
+それ,それ,,that (one) [closer to listener],,
+山葵(わさび),わさび,山葵,wasabi,,
+あれ,あれ,,that one over there [far from both],,
+刺身(さしみ),さしみ,刺身,sashimi,,
+どれ,どれ,,which (one of three or more),,
+車(くるま),くるま,車,car,,
+こっち,こっち,,this (pair),,
+友達(ともだち),ともだち,友達,friend,,
+そっち,そっち,,that (pair),,
+お婆(ばあ),おばあ,お婆,"grandmother, old woman",,
+あっち,あっち,,that (pair) over there,,
+お爺(じい),おじい,お爺,"grandfather, old man",,
+どっち,どっち,,which (one of two items),,
+〜語(ご),〜ご,〜語,language (of 〜),,
+英(えい)語(ご),えいご,英語,English (language),,
+野菜(やさい),やさい,野菜,vegetable,,
+英語(えいご)が話(はな)せますか,えいごがはなせますか,英語が話せますか,can you speak English?,,
+レタス,レタス,,lettuce,,
+話(はな)せます,はなせます,話せます,can speak (a language),,
+日本語(にほんご)が話(はな)せますか,にほんごがはなせますか,日本語が話せますか,can you speak Japanese?,,
+少(すこ)し,すこし,少し,"a little, a bit",,
+雑誌(ざっし),ざっし,雑誌,magazine,,
+果物(くだもの),くだもの,果物,fruit (jp),,
+全然(ぜんぜん),ぜんぜん,全然,not at all,,
+バナナ,バナナ,,banana,,
+ペン,ペン,,pen,,
+コンピューター,コンピューター,,computer,,
+赤(あか),あか,赤,"baby, infant",,
+文(ぶん),ぶん,文,"sentence, phrase",,
+型(かた),かた,型,"pattern, mold",,
+文型(ぶんけい),ぶんけい,文型,sentence pattern,,
+鉛筆(えんぴつ),えんぴつ,鉛筆,pencil,,
+フルーツ,フルーツ,,fruit (loanword),,
+日本語(にほんご)を勉強(べんきょう)しています,にほんごをべんきょうしています,日本語を勉強しています,I’m studying Japanese.,,日(に)本(ほん)語(ご)を勉(べん)強(きょう)しています
+大学(だいがく),だいがく,大学,"college, university",,
