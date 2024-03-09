@@ -9,8 +9,9 @@ japanese = []
 
 for s in soup.find_all('span', class_='css-11g2wvj'):
     if s.string:
-        if s.string != 'Japanese' and s.string != 'English':
-            english.append(s.string)
+        str = s.string.strip()
+        if str != 'Japanese' and str != 'English':
+            english.append(str)
         continue
     for r in s.find_all('ruby'):
         for rt in r.find_all('rt'):
