@@ -3,7 +3,7 @@ import csv
 import re
 import string
 
-furigana_full_re = re.compile(r"(([\u3005\u3007\u4e00-\u9fff]+)\(([\u3000-\u30ff]+)\)|([\s_\u3000-\u30ff]+))*")
+furigana_full_re = re.compile(r"(([\u3005\u4e00-\u9fff]+)\(([\u3000-\u30ff]+)\)|([\s_\u3000-\u30ff]+))*")
 furigana_single_re = re.compile(r"([\s\u3007\u4e00-\u9fff]+)\(([\u3000-\u30ff]+)\)")
 english_re = re.compile(r"[\sa-zA-Z0-9\u3000-\u303f\u2000-\u206f"
                         + re.escape(string.punctuation)
